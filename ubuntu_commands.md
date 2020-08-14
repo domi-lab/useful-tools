@@ -8,3 +8,5 @@ Author: domi-lab
     + Use -S option and |
     + Example: echo "PASSWORD" | sudo -S apt-get update
     + Reference: https://twpower.github.io/164-how-to-use-sudo-password-in-shell-script-en
+
+- Remote Odroid from ubuntu/windown: https://www.youtube.com/watch?v=VLNBEv_x3ng
