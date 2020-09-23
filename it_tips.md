@@ -1,0 +1,1 @@
+1. Enable windows to remote ubuntu: https://superuser.com/questions/1093213/mobaxterm-local-terminal-doesnt-work-closes-immediately
